@@ -76,7 +76,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-- Amir Abbas (002-BSCS-21)
+- Aqeel Ahmad (026-BSCS-21)
 
 ## Acknowledgements
 
